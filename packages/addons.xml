@@ -18,13 +18,12 @@
 		<disclaimer lang="en">The author of this addon does not host any of the content which is found and has no affiliation with any of the content providers.</disclaimer>
         <license/>
         <assets>
-            <icon>resources/media/thecow_icon_golfing.png</icon>
+            <icon>resources/media/thecow_icon.png</icon>
             <fanart>resources/media/thecow_fanart2.jpg</fanart>
         </assets>
         <news>INFO: For latest changes see Changelog within Tools of add-on.</news>
     </extension>
 </addon>
-
 
 <addon id="script.module.the_milk" name="The Milk Module" version="2.0.00" provider-name="Elvis-Gratton">
     <requires>
