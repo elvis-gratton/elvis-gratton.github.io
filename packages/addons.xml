@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.the_cow" name="La Vache" provider-name="Elvis-Gratton" version="2.0.02">
+<addon id="plugin.video.the_cow" name="La Vache" provider-name="Elvis-Gratton" version="2.0.03">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" version="2.19.1"/>
@@ -27,7 +27,7 @@
 
 
 
-<addon id="script.module.the_milk" name="The Milk Module" version="2.0.02" provider-name="Elvis-Gratton">
+<addon id="script.module.the_milk" name="The Milk Module" version="2.0.03" provider-name="Elvis-Gratton">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"/>
@@ -40,7 +40,7 @@
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <summary lang="en">The Milk Module</summary>
-        <description>This is a fork of CocoScrapers from CocoJoe2411.</description>
+        <description>This is a fork of the_milk from CocoJoe2411.</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <forum></forum>
