@@ -27,7 +27,7 @@
 
 
 
-<addon id="script.module.the_milk" name="The Milk Module" version="2.0.12" provider-name="Elvis-Gratton">
+<addon id="script.module.the_milk" name="The Milk Module" version="2.0.13" provider-name="Elvis-Gratton">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"/>
